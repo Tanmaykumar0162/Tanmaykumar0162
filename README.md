@@ -31,6 +31,16 @@ I am a strong believer in consistent building and continuous learning. Below are
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaykumar0162&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=434D56" alt="Top Languages" width="60%" />
 </div>
 
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanmaykumar0162/Tanmaykumar0162/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanmaykumar0162/Tanmaykumar0162/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tanmaykumar0162/Tanmaykumar0162/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ---
 
 ### 🛠️ Technical Arsenal
