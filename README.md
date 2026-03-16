@@ -66,4 +66,4 @@ I am always open to discussing Applied AI research, MLOps opportunities, or inno
 
 * **LinkedIn:** [linkedin.com/in/tanmayksahu62](https://linkedin.com/in/tanmayksahu62)
 * **Email:** [tanmayrjn003@gmail.com](mailto:tanmayrjn003@gmail.com)
-* **Portfolio:**
+* **Portfolio:** [My Portfolio](https://tanmaykumar0162.github.io/My-Portfolio)
