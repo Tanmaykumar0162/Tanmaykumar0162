@@ -8,8 +8,8 @@
 I am a final-year Information Technology student at Guru Ghasidas Vishwavidyalaya, specializing in Machine Learning, Deep Learning, and Artificial Intelligence. I am passionate about applying AI to complex, cross-disciplinary scientific domains and thrive in collaborative, research-driven environments. 
 
 ### 🚀 Current Focus
-* 📚 Undertaking intensive preparation for the competitive GATE DA (Data Science & AI) examination.
-* 🔬 Actively seeking summer research internships at top-tier institutes to contribute to applied R&D.
+* 📚 Successfully qualified GATE DA (Data Science & AI) and CS examination.
+* 🔬 Actively striving for summer research internships at top-tier institutes to contribute to applied R&D.
 * 💻 Committing daily to refine my machine learning pipelines, algorithms, and data science foundations.
 * 🎭 Balancing technical rigor with creative leadership as Cultural Coordinator (EQUILIBRIO), Graphic Designer (UDAAN), and active member of Tarang and Urchins.
 
