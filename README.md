@@ -18,19 +18,6 @@ I am a final-year Information Technology student at Guru Ghasidas Vishwavidyalay
 ### 📊 GitHub Activity & Consistency
 
 I am a strong believer in consistent building and continuous learning. Below are my real-time GitHub metrics, reflecting my daily coding habits and contributions:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmaykumar0162&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=434D56" alt="GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaykumar0162&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=434D56" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaykumar0162&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=434D56" alt="Top Languages" width="60%" />
-</div>
-
 <br>
 
 <div align="center">
