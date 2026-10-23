@@ -1,3 +1,4 @@
+
 from pathlib import Path
 
 content = """# Hi, I'm Tanmay Kumar Sahu 👋
@@ -5,6 +6,8 @@ content = """# Hi, I'm Tanmay Kumar Sahu 👋
 ### IT Graduate | Aspiring IT Infrastructure & Cybersecurity Professional
 
 Welcome to my GitHub profile!
+
+I'm an Information Technology graduate currently pursuing PGCP-ITISS training at Sunbeam Infotech. I'm interested in IT infrastructure, system administration, networking, and cybersecurity.
 """
 
 path = Path("README.md")
