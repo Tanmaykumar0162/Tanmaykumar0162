@@ -2,7 +2,15 @@ from pathlib import Path
 
 content = """# Hi, I'm Tanmay Kumar Sahu 👋
 
-### IT Graduate | PGCP-ITISS Trainee at Sunbeam Infotech | Aspiring IT Infrastructure & Cybersecurity Professional
+### IT Graduate | Aspiring IT Infrastructure & Cybersecurity Professional
+
+Welcome to my GitHub profile!
+"""
+
+path = Path("README.md")
+path.write_text(content, encoding="utf-8")
+
+print("README.md created successfully!")
 
 I'm an Information Technology graduate currently pursuing PGCP-ITISS training at **Sunbeam Infotech**. I'm interested in building a career in IT infrastructure, system administration, networking, and cybersecurity.
 
