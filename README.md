@@ -1,74 +1,62 @@
-
 from pathlib import Path
 
-content = """# Hi, I'm Tanmay Kumar Sahu 👋
+content = """# Tanmay Kumar Sahu
 
-### IT Graduate | Aspiring IT Infrastructure & Cybersecurity Professional
+**Information Technology Graduate | PGCP-ITISS Trainee at Sunbeam Infotech | IT Infrastructure & Information Security**
 
-Welcome to my GitHub profile!
+I am an Information Technology graduate currently pursuing PGCP-ITISS training at **Sunbeam Infotech**. I am developing a foundation in IT infrastructure management, operating systems, networking, information security, and DevOps, with a particular interest in how reliable systems are operated, monitored, and secured.
 
-I'm an Information Technology graduate currently pursuing PGCP-ITISS training at Sunbeam Infotech. I'm interested in IT infrastructure, system administration, networking, and cybersecurity.
-"""
+Alongside my coursework, I have built Python-based projects involving document intelligence and machine learning. I am now extending that technical background toward infrastructure and security through structured learning and practical labs. The topics below reflect my current learning path; I will add lab evidence and project write-ups as I complete them.
 
-path = Path("README.md")
-path.write_text(content, encoding="utf-8")
+## Connect
 
-print("README.md created successfully!")
+- **LinkedIn:** [linkedin.com/in/tanmayksahu62](https://www.linkedin.com/in/tanmayksahu62/)
+- **GitHub:** [github.com/Tanmaykumar0162](https://github.com/Tanmaykumar0162)
 
-I'm an Information Technology graduate currently pursuing PGCP-ITISS training at **Sunbeam Infotech**. I'm interested in building a career in IT infrastructure, system administration, networking, and cybersecurity.
+## PGCP-ITISS Learning Focus
 
-My background includes Python-based technical projects and application development. I'm currently strengthening my understanding of operating systems, Linux, networking, and information security through coursework and practical learning.
+My current course of study covers topics across IT infrastructure, operations, and information security, including:
 
-## 🔗 Connect with Me
+- **IT Infrastructure & Service Management:** ITIL concepts, service desk, incident and problem management, change management, asset management, and data-centre fundamentals.
+- **Systems, Virtualization & Storage:** operating-system concepts, virtualization, storage-area networks, and infrastructure fundamentals.
+- **Networking & Network Defence:** firewall concepts, pfSense, Linux `iptables`, packet analysis with Wireshark, VPNs, IDS/IPS concepts, and network monitoring.
+- **DevOps & Automation:** Docker, CI/CD concepts, infrastructure provisioning with Chef and Puppet, and monitoring with Prometheus.
+- **Information Security & PKI:** cryptography fundamentals, digital certificates, public key infrastructure, TLS/HTTPS, authentication, and access-control concepts.
+- **Security Operations & Forensics:** threat detection, incident response, vulnerability assessment, security-log analysis, evidence handling, and cyber-forensics fundamentals.
+- **Compliance & Governance:** security controls, audit concepts, and relevant governance and compliance frameworks.
 
-- **LinkedIn:** [tanmayksahu62](https://www.linkedin.com/in/tanmayksahu62/)
-- **GitHub:** [Tanmaykumar0162](https://github.com/Tanmaykumar0162)
+*These are syllabus and learning areas, not a claim that I have mastered or independently implemented every listed technology. I will highlight specific tools as I gain practical experience.*
 
-## 🎯 Career Interests
+## Selected Projects
 
-- IT Infrastructure & System Administration
-- Linux and Operating Systems
-- Computer Networking
-- Cybersecurity Fundamentals
-- Cloud Technologies
-- DevSecOps
+### Enterprise Document Intelligence Chatbot
 
-## 🛠️ Technical Skills
-
-> Keep this list aligned with skills you have studied and can explain. Add tools as you gain practical experience.
-
-- **Programming:** Python
-- **Development Tools:** Git, GitHub
-- **Areas I'm Learning:** Linux Administration, Networking Fundamentals, System Security, IT Infrastructure
-
-## 🚀 Projects
-
-### 1. Enterprise Document Intelligence Chatbot
-A Python-based project that uses Retrieval-Augmented Generation (RAG) to retrieve information from enterprise documents and generate context-aware responses.
+A Python application that uses Retrieval-Augmented Generation (RAG) to retrieve relevant information from documents and generate context-aware responses.
 
 - **Technologies:** Python, LangChain, ChromaDB, Gemini API, Streamlit
 - **Repository:** [Enterprise Document Intelligence Chatbot](https://github.com/Tanmaykumar0162/Enterprise-Document-Intelligence-Chatbot)
 
-### 2. Bridging Traditional Rhythms and Digital DAWs with Machine Learning
-A machine-learning project focused on recognizing traditional Tabla patterns and supporting digital audio workflows.
+### Bridging Traditional Rhythms and Digital DAWs with Machine Learning
+
+A machine-learning project exploring recognition of traditional Tabla patterns and integration with digital audio workflows.
 
 - **Technologies:** Python, PyTorch, Librosa, FastAPI
-- **Repository:** [View Project](https://github.com/Tanmaykumar0162/Bridging-Traditional-Rhythms-and-Digital-DAWs-with-Machine-Learning)
+- **Repository:** [Bridging Traditional Rhythms and Digital DAWs with Machine Learning](https://github.com/Tanmaykumar0162/Bridging-Traditional-Rhythms-and-Digital-DAWs-with-Machine-Learning)
 
-## 📚 Current Learning Goals
+## Current Goals
 
-- Build practical Linux administration skills.
-- Strengthen networking and troubleshooting fundamentals.
-- Learn system security and monitoring concepts.
-- Complete hands-on labs and document the results in GitHub.
+- Build and document hands-on labs in Linux and network administration.
+- Practise network monitoring, firewall configuration, and security-log analysis in controlled lab environments.
+- Explore containerization, infrastructure automation, and monitoring tools as covered in my coursework.
+- Publish clear lab notes and project documentation so my learning can be reviewed and reproduced.
 
-## 🤝 Let's Connect
+## Areas of Interest
 
-I'm interested in learning from the IT and cybersecurity community, collaborating on beginner-friendly technical projects, and exploring entry-level opportunities in IT infrastructure and security.
+IT Infrastructure · System Administration · Network Defence · Information Security · DevOps · Cloud Infrastructure
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tanmayksahu62/).
-
----
-
-*This profile is a work in progress as I continue learning and building practical projects.*
+I welcome opportunities to learn from the IT and cybersecurity community, collaborate on practical projects, and grow toward entry-level infrastructure or security roles.
 """
+
+path = Path("/mnt/data/README.md")
+path.write_text(content, encoding="utf-8")
+print(f"Updated {path} ({path.stat().st_size} bytes)")
